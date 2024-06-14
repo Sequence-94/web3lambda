@@ -1,0 +1,23 @@
+{
+  "name": "web3lambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sequence-94/web3lambda.git"
+  },
+  "author": "Sequence",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sequence-94/web3lambda/issues"
+  },
+  "homepage": "https://github.com/Sequence-94/web3lambda#readme",
+  "description": "",
+  "dependencies": {
+    "web3": "^4.9.0",
+    "xhr2": "^0.2.1"
+  }
+}
